@@ -1,0 +1,21 @@
+/* ==================== COMMON STYLES ======================= */
+ul,
+ol {
+  list-style-type: none;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+button {
+  cursor: pointer;
+}
+/* ==================== /COMMON STYLES ======================= */
+
+/* ==================== HEADER STYLES ======================= */
+
+/* ==================== /HEADER STYLES ======================= */
+
+/* ==================== SECTION STYLES======================= */
+
+/* ==================== /SECTION STYLES ======================= */
