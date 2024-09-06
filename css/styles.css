@@ -17,8 +17,6 @@ button {
   cursor: pointer;
 }
 
-/* ==================== /COMMON STYLES ======================= */
-
 /* ==================== HEADER STYLES ======================= */
 .site-logo {
   font-family: "Raleway", sans-serif;
@@ -57,8 +55,6 @@ button {
   color: #404bbf;
 }
 
-/* ==================== /HEADER STYLES ======================= */
-
 /* ==================== SECTION-1 STYLES======================= */
 .title-section {
   background: #2e2f42;
@@ -85,7 +81,6 @@ button {
 .btn:focus {
   background-color: #404bbf;
 }
-/* ==================== /SECTION-1 STYLES ======================= */
 
 /* ==================== SECTION-2 STYLES======================= */
 .benefist-subtitle {
@@ -100,7 +95,6 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-/* ==================== /SECTION-2 STYLES ======================= */
 
 /* ==================== SECTION-3 STYLES======================= */
 .team {
@@ -133,7 +127,6 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
 }
-/* ==================== /SECTION-3 STYLES ======================= */
 
 /* ==================== SECTION-4 STYLES======================= */
 .portfolio-title {
@@ -156,7 +149,6 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-/* ==================== /SECTION-4 STYLES ======================= */
 
 /* ==================== FOOTER STYLES ======================= */
 .page-footer {
@@ -171,4 +163,3 @@ button {
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
-/* ==================== /FOOTER STYLES ======================= */
