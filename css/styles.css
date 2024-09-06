@@ -88,15 +88,74 @@ button {
 /* ==================== /SECTION-1 STYLES ======================= */
 
 /* ==================== SECTION-2 STYLES======================= */
+.benefist-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
 
+.benefits-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
 /* ==================== /SECTION-2 STYLES ======================= */
 
 /* ==================== SECTION-3 STYLES======================= */
+.team {
+  background-color: #f4f4fd;
+}
 
+.title-team {
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.team-user {
+  background-color: #fff;
+}
+
+.user-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.team-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
 /* ==================== /SECTION-3 STYLES ======================= */
 
 /* ==================== SECTION-4 STYLES======================= */
+.portfolio-title {
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
 
+.portfolio-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.portfolio-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
 /* ==================== /SECTION-4 STYLES ======================= */
 
 /* ==================== FOOTER STYLES ======================= */
@@ -104,6 +163,12 @@ button {
   background-color: #2e2f42;
 }
 .footer-logo .color-logo {
+  color: #f4f4fd;
+}
+
+.text-footer {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #f4f4fd;
 }
 /* ==================== /FOOTER STYLES ======================= */
